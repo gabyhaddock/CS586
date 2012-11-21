@@ -1,0 +1,66 @@
+tr {
+	vertical-align: top;
+}
+
+th {
+	text-align: left; 
+	color: #6A8FA2;
+}
+
+th, td {
+	padding: 3px 10px;
+}
+
+
+a:link , a:visited{
+	color: #333E47;
+}
+
+
+.pageTitle {
+	font-size: 20px;
+	color: #C5481C;
+	padding: 5px;
+	border-bottom: 1px solid #6A8FA2;
+	margin-bottom: 15px;	
+}
+
+.anchor {
+
+	float:right;
+	height: 35px;
+	width: 35px;
+}
+
+
+.pageBottomNav {
+	color: #C5481C;
+	padding: 5px;
+	border-top: 1px solid #6A8FA2;
+	margin-top: 15px;
+}
+
+#bodyWrapper {
+	width: 700px;
+	margin: 10px auto;
+	background-color:  #F6F6F0;
+	padding: 15px;
+
+}
+
+
+body {
+
+background-color: #D7DFC9;
+
+background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(.2, rgba(51, 62, 71, 1)), color-stop(.2, transparent), to(transparent));
+background-image: -moz-linear-gradient(rgba(51, 62, 71, 1) 50%, transparent 50%, transparent);
+background-image: -o-linear-gradient(rgba(51, 62, 71, 1) 50%, transparent 50%, transparent);
+background-image: linear-gradient(rgba(51, 62, 71, 1) 50%, transparent 50%, transparent);
+
+
+-webkit-background-size: 50px 50px;
+-moz-background-size: 50px 50px;
+background-size: 50px 50px;
+
+}
